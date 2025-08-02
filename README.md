@@ -17,7 +17,7 @@ A simple full-stack web application for booking bus tickets online. Users can si
 ## Getting Started
 
 1. Clone the repo:  
-   `git clone <repository-url>`  
+   `git clone <[repository-url](https://github.com/Mridullamurugan/Bus-Booking-Reservation)>`  
 2. Set up MySQL database and import schema  
 3. Install backend packages:  
    `pip install -r requirements.txt`  
